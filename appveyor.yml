@@ -23,5 +23,4 @@ install:
 build: false
 
 test_script:
-  # - "py.test -s guitest.py"
-  - "python graph_a_star.py"
+  - "py.test -s guitest.py"
